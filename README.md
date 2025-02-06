@@ -1,4 +1,4 @@
-Workin progress for this site: https://card-game.scambulls.com/
+Work in progress for this site: https://card-game.scambulls.com/
 
 # React + Vite
 
